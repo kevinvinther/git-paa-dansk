@@ -40,6 +40,10 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | stash         | stash          | gemme           |
 | tag           | tag            | mærke           |
 
+|Biord         | Nuværende brug | Forslag      |
+|--------------|----------------|--------------|
+| upstream     | upstream       | opstrøms     |
+
 ## Eksempler
 
     - Gider I hale fra den gren, jeg lige har genbaseret og puffet til GitHub?
@@ -53,6 +57,8 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
     - Hov, jeg tvangspuffede vistnok til hovedgrenen!
 
     - Husk at kvase dine fastlæggelser, inden du fletter.
+    
+    - Hvis du har gaflet min gren skal du lige huske at hente opstrøms.
 
 
 # Ordliste
@@ -303,7 +309,7 @@ en reference, oftest til en fastlæggelse, som beskriver et bestemt punkt i udvi
 
 = mærke op
 
-forsyne en fastlæggelse med ett mærke.
+forsyne en fastlæggelse med et mærke.
 
 `BØJNING` -r, -de, -t   
 `GRAMMATIK` verbum, *nogen* opmærker *en fastlæggelse*  
