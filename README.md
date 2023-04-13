@@ -121,7 +121,7 @@ optage ændringer, fx fra en anden gren, i den aktuelle gren.
 
 >Git gør det nemt og hurtigt at forgrene og flette.
 
-`SAMMENSÆTNINGER` flettekonflikt, flettefastlæggelse, blækspruttefletning  
+`SAMMENSÆTNINGER` fletteanmodning, flettekonflikt, flettefastlæggelse, blækspruttefletning  
 
 ## forgrene
 
