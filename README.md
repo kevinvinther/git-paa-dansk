@@ -30,14 +30,15 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | amend       | amende         | tilrette      |
 | blame       | blame          | klandre       |
 
-| Navneord     | Nuværende brug | Forslag      |
-|--------------|----------------|--------------|
-| repository   | repository     | repositorium |
-| branch       | branch         | gren         |
-| commit       | commit         | fastlæggelse |
-| pull request | pull request   | haleanmodning|
-| stash        | stash          | gemme        |
-| tag          | tag            | mærke        |
+| Navneord      | Nuværende brug | Forslag         |
+|---------------|----------------|-----------------|
+| repository    | repository     | repositorium    |
+| branch        | branch         | gren            |
+| commit        | commit         | fastlæggelse    |
+| pull request  | pull request   | haleanmodning   |
+| merge request | merge request  | fletteanmodning |
+| stash         | stash          | gemme           |
+| tag           | tag            | mærke           |
 
 ## Eksempler
 
