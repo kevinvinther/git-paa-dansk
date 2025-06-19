@@ -60,6 +60,10 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
     
     - Hvis du har gaflet min gren skal du lige huske at hente opstrøms.
 
+## Konfigurer `git` til gitte
+
+Læs [Konfiguration.md](Konfiguration.md) hvis du er interesseret i at konfigurere `git` til at bruge (flere) danske ord.
+
 
 # Ordliste
 
